@@ -1,0 +1,4 @@
+#This is a sample RSP file.
+bundle
+--output "C:\Users\This User\Documents\מסלול\JAVA\תור"
+--l java

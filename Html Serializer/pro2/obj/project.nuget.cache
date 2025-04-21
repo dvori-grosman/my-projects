@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQxzvs1knyhZBxH0NZVCKoRH0XmaClamX+njOlUphP+qEHRDzUMCh5YXb1HT8Fy0iMt4cKUVOGkm2QRCv0x+EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This User\\Documents\\מסלול\\C#\\B\\pro2\\pro2\\pro2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This User\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\jsonconverter.abstractions\\0.7.1\\jsonconverter.abstractions.0.7.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\jsonconverter.newtonsoft.json\\0.7.1\\jsonconverter.newtonsoft.json.0.7.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\stef.validation\\0.1.1\\stef.validation.0.1.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

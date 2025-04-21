@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqQiqiRaq98NvUiUr7vePGis8CDLIGIHiqBAEAR20XrU/S5XJzOFioJSc6sJA3b550MX0dgCos6Pl9J13A9kYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This User\\Documents\\מסלול\\C#\\B\\pro\\pro\\pro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This User\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

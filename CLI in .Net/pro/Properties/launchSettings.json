@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "pro": {
+      "commandName": "Project",
+      "commandLineArgs": "pro bundle --output \"C:\\Users\\This User\\Documents\\מסלול\\JAVA\\תור\" --l \"java\" --note \"true\"",
+      "workingDirectory": "C:\\Users\\This User\\Documents\\java"
+    }
+  }
+}
