@@ -6,11 +6,11 @@ A curated collection of projects demonstrating full-stack development, backend e
 
 | Project | What it demonstrates | Tech stack |
 | --- | --- | --- |
-| [Apartment Marketplace Platform](./react-nodejs) | REST API design, authentication, filtering, file uploads, modular backend architecture | Node.js, Express, MongoDB, Mongoose, JWT |
-| [Task Management Full Stack App](./TodoApi) | End-to-end React + ASP.NET Core application with a relational database and container support | React, C#, ASP.NET Core, EF Core, MySQL, Docker |
-| [Code Bundler CLI](./CLI%20in%20.Net) | Command-line design, file-system processing, argument parsing, sorting and automation | C#, .NET, System.CommandLine |
-| [HTML Parser & Selector Engine](./Html%20Serializer) | HTML parsing, tree construction, selector parsing, traversal and search algorithms | C#, .NET, Regex, data structures |
-| [Python Client-Server Game Platform](./python) | REST communication, sessions, persistence and a stateful CLI client | Python, Flask, MongoDB, Requests |
+| [Apartment Marketplace Platform](./apartment-marketplace) | REST API design, authentication, filtering, file uploads, modular backend architecture | Node.js, Express, MongoDB, Mongoose, JWT |
+| [Task Management Full Stack App](./task-management-fullstack) | End-to-end React + ASP.NET Core application with a relational database and container support | React, C#, ASP.NET Core, EF Core, MySQL, Docker |
+| [Code Bundler CLI](./code-bundler-cli) | Command-line design, file-system processing, argument parsing, sorting and automation | C#, .NET, System.CommandLine |
+| [HTML Parser & Selector Engine](./html-parser-selector-engine) | HTML parsing, tree construction, selector parsing, traversal and search algorithms | C#, .NET, Regex, data structures |
+| [Python Client-Server Game Platform](./python-client-server-game) | REST communication, sessions, persistence and a stateful CLI client | Python, Flask, MongoDB, Requests |
 
 ## Engineering Highlights
 
