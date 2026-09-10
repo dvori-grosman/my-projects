@@ -1,0 +1,30 @@
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node.js
+**/node_modules/
+**/build/
+**/dist/
+
+# .NET / Visual Studio
+**/bin/
+**/obj/
+**/publish/
+**/.vs/
+**/*.user
+**/*.suo
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+
+# IDEs
+**/.idea/
+**/.vscode/
+
+# OS
+**/.DS_Store
+Thumbs.db
