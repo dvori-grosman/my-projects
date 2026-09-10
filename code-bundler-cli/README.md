@@ -32,7 +32,7 @@ A .NET command-line utility that collects source files from a directory and bund
 dotnet run -- bundle --output ./src --l cs --note --author "Developer" --sort abc
 ```
 
-The command scans the target directory, builds the combined content and writes it to `bundle.txt`.
+The command scans the target directory, builds the combined content and writes it to `bundle.txt`. Use `--sort abc` for alphabetical ordering or `--sort l-order` to order by file extension.
 
 ## CLI Design
 
