@@ -49,4 +49,4 @@ app.js             # Application entry point
 
 ## What This Project Demonstrates
 
-This project focuses on backend architecture for a marketplace-style application: separating routing, data access and middleware concerns; protecting mutations with token-based authentication; working with relational-style references in MongoDB; and supporting real-world features such as filtering and media uploads.
+This project focuses on backend architecture for a marketplace-style application: separating routing, data access and middleware concerns; protecting mutations with token-based authentication; working with relational-style references in MongoDB; and supporting real-world features such as filtering and media uploads. The filtering endpoints also show how multiple search dimensions can be exposed through a REST API.
