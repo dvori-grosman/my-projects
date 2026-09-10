@@ -47,6 +47,8 @@ Tree search
 Matching elements
 ```
 
+Selectors are translated into structured criteria before traversal, allowing the search logic to operate on parsed conditions rather than raw selector strings.
+
 ## What This Project Demonstrates
 
 The project emphasizes algorithmic problem solving rather than framework plumbing: parsing semi-structured text, modelling a tree, recursively traversing nodes, translating selector syntax into data structures and matching those structures against HTML elements.
