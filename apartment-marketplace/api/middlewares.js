@@ -15,7 +15,6 @@ export const checkAuth = (req, res, next) => {
         res.status(401).send("Aouthoration field")
     }
     jwt.verify(token,  process.env.SECRET, (error, decoded) => {
-        console.log(process.env.SECRET);
         if (error || !decoded)
             res.status(401).send("Aouthoration field")
         else
