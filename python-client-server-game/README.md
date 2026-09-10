@@ -36,7 +36,7 @@ Flask REST API
 MongoDB
 ```
 
-The client uses a persistent Requests session to communicate with the Flask API. Server endpoints manage users, login state, gameplay access, history and updates.
+The client uses a persistent Requests session to communicate with the Flask API. Server endpoints manage users, login state, gameplay access, history and updates. Protected client actions first verify the active session before continuing the game flow.
 
 ## Main API Endpoints
 
