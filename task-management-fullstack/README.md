@@ -66,6 +66,8 @@ npm install
 npm start
 ```
 
+Run the backend and frontend in separate terminals during local development so the React client can communicate with the ASP.NET Core API.
+
 ## What This Project Demonstrates
 
 The project shows end-to-end development across two technology ecosystems: a React UI on the client and a typed C#/.NET API on the server, with ORM-based persistence, API documentation and container-ready configuration.
