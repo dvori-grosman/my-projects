@@ -10,7 +10,7 @@ A curated collection of projects demonstrating full-stack development, backend e
 | [Task Management Full Stack App](./task-management-fullstack) | End-to-end React + ASP.NET Core application with a relational database and container support | React, C#, ASP.NET Core, EF Core, MySQL, Docker |
 | [Code Bundler CLI](./code-bundler-cli) | Command-line design, file-system processing, argument parsing, sorting and automation | C#, .NET, System.CommandLine |
 | [HTML Parser & Selector Engine](./html-parser-selector-engine) | HTML parsing, tree construction, selector parsing, traversal and search algorithms | C#, .NET, Regex, data structures |
-| [Python Client-Server Game Platform](./python-client-server-game) | REST communication, sessions, persistence and a stateful CLI client | Python, Flask, MongoDB, Requests |
+| [Python Client-Server Game Platform](https://github.com/dvori-grosman/my-projects/tree/master/python-client-server-game) | REST communication, sessions, persistence and a stateful CLI client | Python, Flask, MongoDB, Requests |
 
 ## Engineering Highlights
 
